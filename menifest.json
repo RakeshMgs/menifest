@@ -1,7 +1,7 @@
 {
   "name": "RakeshMgs Web App",
   "short_name": "RakeshMgs",
-  "start_url": "/",
+  "start_url": "https://www.rakeshmgs.in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3498db",
