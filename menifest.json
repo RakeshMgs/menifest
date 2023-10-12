@@ -1,14 +1,14 @@
 {
   "name": "RakeshMgs",
   "short_name": "RakeshMgs",
-  "start_url": "/",
+  "start_url": "https://www.rakeshmgs.in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3498db",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/-Ldb39VAPsL8/YXeS1p7lQTI/AAAAAAAAC4Q/UivolH7cEW44_Zz7FS8FQ2mLrDeQV8vBQCLcBGAsYHQ/s192/RakeshMgs.png",
-      "sizes": "192x192",
+      "src": "https://lh3.googleusercontent.com/-Ldb39VAPsL8/YXeS1p7lQTI/AAAAAAAAC4Q/UivolH7cEW44_Zz7FS8FQ2mLrDeQV8vBQCLcBGAsYHQ/s512/RakeshMgs.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
