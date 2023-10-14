@@ -1,0 +1,15 @@
+{
+  "name": "O Level RM",
+  "short_name": "O Level RM",
+  "start_url": "https://olevel.rakeshmgs.in",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://play-lh.googleusercontent.com/upklm57VSlHeLgEp1q9IQGkfKayg1pNIjlqU7VAfM_TXhPYpwAuPkGjP_gZtHWuLSN89=s192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
